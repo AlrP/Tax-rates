@@ -1,1 +1,1 @@
-# Interactive optimal tax rates calc - mini-project
+# Mini-project: Interactive optimal tax rates calc 
